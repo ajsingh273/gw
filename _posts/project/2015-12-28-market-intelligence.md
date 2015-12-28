@@ -8,9 +8,8 @@ categories:
 img: market-intelligence.png
 thumb: thumb-market-intelligence.png
 carousel:
-- slide1-market-intelligence.png
-- slide2-market-intelligence.png
-- slide3-market-intelligence.png
+- slide1-mi.png
+- slide2-mi.png
 tagged: Knowledge, Search
 client: International Trade Administration
 website: http://govwizely.github.io/market-intelligence-search-app/

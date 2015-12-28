@@ -7,10 +7,6 @@ categories:
 - project
 img: susa.png
 thumb: thumb-market-intelligence.png
-carousel:
-- slide1-market-intelligence.png
-- slide2-market-intelligence.png
-- slide3-market-intelligence.png
 tagged: APIs, Webservices
 client: International Trade Administration
 website: http://selectusa.commerce.gov/
