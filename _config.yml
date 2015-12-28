@@ -4,8 +4,8 @@
 title: GovWizely
 description: "GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+baseurl: "/"
+url: ""
 
 # Build settings
 markdown: kramdown

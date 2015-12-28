@@ -3,10 +3,10 @@
   <channel>
     <title>GovWizely</title>
     <description>GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Dec 2015 17:59:43 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2015 17:59:43 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 28 Dec 2015 18:01:37 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2015 18:01:37 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -31,8 +31,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 
 </description>
         <pubDate>Mon, 28 Dec 2015 11:54:46 -0500</pubDate>
-        <link>http://yourdomain.com/blog/tips&tricks/new-number</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/tips&tricks/new-number</guid>
+        <link>/blog/tips&tricks/new-number</link>
+        <guid isPermaLink="true">/blog/tips&tricks/new-number</guid>
         
         
         <category>blog</category>
@@ -50,8 +50,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/project/market-intelligence</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/market-intelligence</guid>
+        <link>/project/market-intelligence</link>
+        <guid isPermaLink="true">/project/market-intelligence</guid>
         
         
         <category>project</category>
@@ -67,8 +67,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/project/explorer</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/explorer</guid>
+        <link>/project/explorer</link>
+        <guid isPermaLink="true">/project/explorer</guid>
         
         
         <category>project</category>
@@ -84,8 +84,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/project/developer-portal</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/developer-portal</guid>
+        <link>/project/developer-portal</link>
+        <guid isPermaLink="true">/project/developer-portal</guid>
         
         
         <category>project</category>
@@ -114,8 +114,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 
 </description>
         <pubDate>Wed, 23 Dec 2015 11:54:46 -0500</pubDate>
-        <link>http://yourdomain.com/blog/ita-hh</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/ita-hh</guid>
+        <link>/blog/ita-hh</link>
+        <guid isPermaLink="true">/blog/ita-hh</guid>
         
         
         <category>blog</category>
@@ -131,8 +131,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/project/webservices</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/webservices</guid>
+        <link>/project/webservices</link>
+        <guid isPermaLink="true">/project/webservices</guid>
         
         
         <category>project</category>
@@ -148,8 +148,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/project/selectusa</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/selectusa</guid>
+        <link>/project/selectusa</link>
+        <guid isPermaLink="true">/project/selectusa</guid>
         
         
         <category>project</category>
@@ -161,8 +161,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
         <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/question/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/question/your-project-name</guid>
+        <link>/question/your-project-name</link>
+        <guid isPermaLink="true">/question/your-project-name</guid>
         
         
         <category>question</category>
@@ -178,8 +178,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>/project/your-project-name</link>
+        <guid isPermaLink="true">/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -195,8 +195,8 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>/project/your-project-name</link>
+        <guid isPermaLink="true">/project/your-project-name</guid>
         
         
         <category>project</category>
